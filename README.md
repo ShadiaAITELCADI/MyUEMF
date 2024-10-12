@@ -45,4 +45,14 @@ The development of MyUEMF followed structured methodologies focusing on:
 ## Conclusion
 This project represents the culmination of our learning journey, showcasing the practical application of our knowledge in web development. MyUEMF aims to enhance community interactions and create a collaborative space for the UEMF members.
 
+## User experience
+https://github.com/user-attachments/assets/330758ce-b878-458d-9f0c-23c3c5267966
+
+## Contributors
+#### AIT EL CADI Shadia
+#### EL MIDAOUI Imane
+#### EL AMRANI ENNAJAR Tasnime
+#### ABOUJENANE Mariam
+#### Benjjedid jannat
+
 
